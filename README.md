@@ -15,6 +15,7 @@ compile_data_loader.bat
 
 Linux/Mac:
 ```
+REQUIRES CMAKE
 sh compile_data_loader.bat
 ```
 
