@@ -15,6 +15,7 @@ compile_data_loader.bat
 
 Linux/Mac:
 ```
+INSTALL CMAKE
 sh compile_data_loader.bat
 ```
 
